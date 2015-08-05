@@ -1,0 +1,25 @@
+{
+    "name": "busy-loop",
+    "description": "Detect if event loop is busy.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Michal Brašna",
+        "email": "michal.brasna@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Gobie/busy-loop.git"
+    },
+    "keywords": ["event", "loop", "busy"],
+    "engines": {},
+    "devDependencies": {
+        "commander": "1.1.1"
+    },
+    "scripts": {},
+    "licenses": [
+        {
+           "type": "MIT",
+           "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
